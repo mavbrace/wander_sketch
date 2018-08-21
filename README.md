@@ -1,2 +1,3 @@
 # wander_sketch
-Wandermachine Part Two, implementing machine learning.
+Wandermachine Part Two, implementing machine learning. <br />
+3 separate programs: Max Patch 'gatherer.maxpat' > LearnAndDraw.py > displaySVGs
